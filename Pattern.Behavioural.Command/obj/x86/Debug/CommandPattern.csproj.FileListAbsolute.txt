@@ -1,0 +1,4 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\CommandPattern\obj\x86\Debug\CommandPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\CommandPattern\obj\x86\Debug\CommandPattern.pdb

@@ -1,0 +1,4 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb

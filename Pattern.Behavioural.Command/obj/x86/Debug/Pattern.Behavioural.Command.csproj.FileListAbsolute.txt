@@ -1,0 +1,4 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Behavioural.Command\bin\Debug\CommandPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Behavioural.Command\bin\Debug\CommandPattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Behavioural.Command\obj\x86\Debug\CommandPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Behavioural.Command\obj\x86\Debug\CommandPattern.pdb

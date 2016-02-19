@@ -1,0 +1,4 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Structural.Adapter\bin\Debug\Pattern.Structural.Adapter.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Structural.Adapter\bin\Debug\Pattern.Structural.Adapter.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Structural.Adapter\obj\x86\Debug\Pattern.Structural.Adapter.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Structural.Adapter\obj\x86\Debug\Pattern.Structural.Adapter.pdb

@@ -1,0 +1,8 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Composite\obj\x86\Debug\CompositePattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Composite\obj\x86\Debug\CompositePattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Structural.Composite\bin\Debug\CompositePattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Structural.Composite\bin\Debug\CompositePattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Structural.Composite\obj\x86\Debug\CompositePattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Structural.Composite\obj\x86\Debug\CompositePattern.pdb
+D:\Projects\Misc\Sandbox\Pattern.Structural.Composite\obj\x86\Debug\CompositePattern.exe
+D:\Projects\Misc\Sandbox\Pattern.Structural.Composite\obj\x86\Debug\CompositePattern.pdb

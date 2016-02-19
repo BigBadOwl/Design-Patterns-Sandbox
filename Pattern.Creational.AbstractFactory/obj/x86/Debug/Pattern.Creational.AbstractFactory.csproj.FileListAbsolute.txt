@@ -1,0 +1,4 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Creational.AbstractFactory\bin\Debug\AbstractFactoryPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Creational.AbstractFactory\bin\Debug\AbstractFactoryPattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Creational.AbstractFactory\obj\x86\Debug\AbstractFactoryPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Creational.AbstractFactory\obj\x86\Debug\AbstractFactoryPattern.pdb

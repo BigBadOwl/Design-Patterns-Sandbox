@@ -1,0 +1,4 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Behavioural.Strategy\bin\Debug\Sandbox.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Behavioural.Strategy\bin\Debug\Sandbox.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Behavioural.Strategy\obj\x86\Debug\Sandbox.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Behavioural.Strategy\obj\x86\Debug\Sandbox.pdb

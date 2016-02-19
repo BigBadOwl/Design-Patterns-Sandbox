@@ -1,0 +1,8 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\SingletonPattern\obj\x86\Debug\SingletonPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\SingletonPattern\obj\x86\Debug\SingletonPattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Creational.Singleton\bin\Debug\SingletonPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Creational.Singleton\bin\Debug\SingletonPattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Creational.Singleton\obj\x86\Debug\SingletonPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\Pattern.Creational.Singleton\obj\x86\Debug\SingletonPattern.pdb

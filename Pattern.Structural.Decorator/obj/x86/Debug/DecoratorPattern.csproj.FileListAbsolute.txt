@@ -1,0 +1,4 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\DecoratorPattern\obj\x86\Debug\DecoratorPattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\DecoratorPattern\obj\x86\Debug\DecoratorPattern.pdb

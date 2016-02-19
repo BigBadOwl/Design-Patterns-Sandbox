@@ -1,0 +1,6 @@
+D:\Projects\Misc\Sandbox\DelegateExample\bin\Debug\DelegateExample.exe.config
+D:\Projects\Misc\Sandbox\DelegateExample\bin\Debug\DelegateExample.exe
+D:\Projects\Misc\Sandbox\DelegateExample\bin\Debug\DelegateExample.pdb
+D:\Projects\Misc\Sandbox\DelegateExample\obj\Debug\DelegateExample.csprojResolveAssemblyReference.cache
+D:\Projects\Misc\Sandbox\DelegateExample\obj\Debug\DelegateExample.exe
+D:\Projects\Misc\Sandbox\DelegateExample\obj\Debug\DelegateExample.pdb

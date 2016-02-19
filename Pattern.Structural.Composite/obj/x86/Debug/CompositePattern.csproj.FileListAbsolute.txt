@@ -1,0 +1,4 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\CompositePattern\obj\x86\Debug\CompositePattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\CompositePattern\obj\x86\Debug\CompositePattern.pdb

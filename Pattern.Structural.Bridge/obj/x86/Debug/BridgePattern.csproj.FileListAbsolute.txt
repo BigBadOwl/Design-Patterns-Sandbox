@@ -1,0 +1,4 @@
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\BridgePattern\obj\x86\Debug\BridgePattern.exe
+C:\Users\BellC\Documents\Visual Studio 2010\Projects\Sandbox\BridgePattern\obj\x86\Debug\BridgePattern.pdb
